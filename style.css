@@ -60,3 +60,9 @@ img{
     font-size: 23px;
     color: white;
 }
+.call-to-action:hover{
+    transition: 0.4s;
+    background-color: #FF8FD8;
+    color: white;
+
+}
