@@ -46,5 +46,17 @@ img{
         margin-top: 20px;
         font-size: 30px;
         text-align: center;
-
-    }
+        }
+/* Call To Action Button */
+.call-to-action{
+    background-color: #ff52c2;
+    font-size: 13px;
+    border-radius: 50px;
+    border: none;
+    box-shadow: 0 5px 10px hsl(192deg 100% 9% / 30%);
+    padding: 20px 160px;
+    margin-left: 33%;
+    margin-top: 25px;
+    font-size: 23px;
+    color: white;
+    
