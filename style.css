@@ -17,6 +17,11 @@
    color: #ff52c2;
    float: right;
 }
+.try-button:hover {
+background-color: #ff52c2;
+color: white;
+}
+
 img{
     margin-top: 20px;
     margin-left: 20px;
